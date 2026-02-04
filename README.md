@@ -4,7 +4,7 @@
 There are some problematic data visualisations on the web which have multiple issues that we can fix or improve. This project aims to identify the problematic data visualisation on the web and utilise the visual presentation of the data by using R. 
 
 <img src="https://github.com/BlackOak8/Data-Visualisation-Deconstruction-Reconstruction/blob/Synthetic-Data(Data-Preprocessing-%26-Summary-Statistics)/Original%20Visual.png" alt="Source: World Resources Institute (2023)">
-<center>*Source: World Resources Institute (2023)*</center>
+Source: World Resources Institute (2023)
 
 # Deconstruct
 ## Objective
@@ -33,3 +33,11 @@ The visualisation chosen had the following three main issues:
 * The legend colour of the country are duplicated, for instances, China and Canada, India and Indonesia, EU(27) and Iran. In addition, the legend color of Manufacturing/Construction sector in China is distinct from the rest. These issues might result in confusion when interpreting different segments in the figure. Furthermore, the lack of uniformity in font size within the outer layer increases the challenge of readability.
 
 # Reconstruct
+The following plot fixes the main issues in the original.
+<img src="https://github.com/BlackOak8/Data-Visualisation-Deconstruction-Reconstruction/blob/Synthetic-Data(Data-Preprocessing-%26-Summary-Statistics)/Reconstruct.png" alt="Source">
+
+# References
+
+* Friedrich, J., Ge, M., Pickens, A., & Vigna, L. (2023). *This Interactive Chart Shows Changes in the World’s Top 10 Emitters*. Retrieved September 16, 2024, from World Resources Institute website: https://www.wri.org/insights/interactive-chart-shows-changes-worlds-top-10-emitters
+
+* Climate Watch (n.d.) *Climate Watch Historical Country Greenhouse Gas Emissions Data*. Retrieved September 16, 2024, from Climate Watch website: https://www.climatewatchdata.org/ghg-emissions?end_year=2021&start_year=1990
