@@ -34,6 +34,7 @@ The visualisation chosen had the following three main issues:
 
 # Reconstruct
 The following plot fixes the main issues in the original.
+
 <img src="https://github.com/BlackOak8/Data-Visualisation-Deconstruction-Reconstruction/blob/Synthetic-Data(Data-Preprocessing-%26-Summary-Statistics)/Reconstruct.png" alt="Source">
 
 # References
