@@ -37,6 +37,9 @@ The following plot fixes the main issues in the original.
 
 <img src="https://github.com/BlackOak8/Data-Visualisation-Deconstruction-Reconstruction/blob/Synthetic-Data(Data-Preprocessing-%26-Summary-Statistics)/Reconstruct.png" alt="Source">
 
+## Output.htm
+- Demonstrates the whole process of creating the synthetic data sets, performing the data preprocessing and conducting the summary statistic for numeric variables
+
 # References
 
 * Friedrich, J., Ge, M., Pickens, A., & Vigna, L. (2023). *This Interactive Chart Shows Changes in the World’s Top 10 Emitters*. Retrieved September 16, 2024, from World Resources Institute website: https://www.wri.org/insights/interactive-chart-shows-changes-worlds-top-10-emitters
