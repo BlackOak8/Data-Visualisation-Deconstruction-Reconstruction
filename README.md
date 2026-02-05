@@ -2,6 +2,11 @@
 
 # Background
 There are some problematic data visualisations on the web which have multiple issues that we can fix or improve. This project aims to identify the problematic data visualisation on the web and utilise the visual presentation of the data by using R. 
+## 
+- 
+## Output.htm
+- Demonstrates the whole process of this project
+
 
 <img src="https://github.com/BlackOak8/Data-Visualisation-Deconstruction-Reconstruction/blob/Synthetic-Data(Data-Preprocessing-%26-Summary-Statistics)/Original%20Visual.png" alt="Source: World Resources Institute (2023)">
 Source: World Resources Institute (2023)
@@ -36,9 +41,6 @@ The visualisation chosen had the following three main issues:
 The following plot fixes the main issues in the original.
 
 <img src="https://github.com/BlackOak8/Data-Visualisation-Deconstruction-Reconstruction/blob/Synthetic-Data(Data-Preprocessing-%26-Summary-Statistics)/Reconstruct.png" alt="Source">
-
-## Output.htm
-- Demonstrates the whole process of creating the synthetic data sets, performing the data preprocessing and conducting the summary statistic for numeric variables
 
 # References
 
