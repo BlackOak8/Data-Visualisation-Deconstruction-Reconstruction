@@ -2,11 +2,12 @@
 
 # Background
 There are some problematic data visualisations on the web which have multiple issues that we can fix or improve. This project aims to identify the problematic data visualisation on the web and utilise the visual presentation of the data by using R. 
-## 
-- 
-## Output.htm
+## historical_emissions.csv
+- All the outcomes are based on this data set
+## Data Visualisation Deconstruct.Rmd
 - Demonstrates the whole process of this project
-
+## Output.htm
+- Present the whole report 
 
 <img src="https://github.com/BlackOak8/Data-Visualisation-Deconstruction-Reconstruction/blob/Synthetic-Data(Data-Preprocessing-%26-Summary-Statistics)/Original%20Visual.png" alt="Source: World Resources Institute (2023)">
 Source: World Resources Institute (2023)
