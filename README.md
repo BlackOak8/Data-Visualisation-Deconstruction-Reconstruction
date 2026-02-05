@@ -12,10 +12,11 @@ There are some problematic data visualisations on the web which have multiple is
 ## Output.htm
 - Present the whole report 
 
+# Deconstruct
+
 <img src="https://github.com/BlackOak8/Data-Visualisation-Deconstruction-Reconstruction/blob/Synthetic-Data(Data-Preprocessing-%26-Summary-Statistics)/Original%20Visual.png" alt="Source: World Resources Institute (2023)">
 Source: World Resources Institute (2023)
 
-# Deconstruct
 ## Objective
 
 The original data visualisation was published in the article entitled 'This Interactive Chart Shows Changes in the World's Top 10 Emitters', which appeared in the publication of the World Resources Institute, Insights. For the purpose of combating the climate change, many different countries have come together and joined the agreement to decrease greenhouse gas emissions.
